@@ -14,12 +14,12 @@ routes.post('/', (req, res, next) => {
     });
 });
 
-router.get('/:id_produto', (req, res, next) => {
+/* routes.get('/:id_produto', (req, res, next) => {
     const id = req.params.id_produto;
     res.status(200).send({
         message: 'Usando GET de Um produto especifico',
         id: id
     });
 });
-
+*/
 module.exports = routes;
