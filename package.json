@@ -1,0 +1,22 @@
+{
+  "name": "apirestmarassato",
+  "version": "1.0.0",
+  "description": "API do Cana do Marassato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianojunnior17/apirestmarassato.git"
+  },
+  "author": "Luciano Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianojunnior17/apirestmarassato/issues"
+  },
+  "homepage": "https://github.com/lucianojunnior17/apirestmarassato#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
